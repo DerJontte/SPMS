@@ -60,11 +60,11 @@ export default class BusyOverlay extends Component {
             <Overlay id="busyOverlay">
                 <BusyDialog>
                     Loading, please wait...
-                    <p>
+                    <div>
                         <Spin>
                             <Gear/>
                         </Spin>
-                    </p>
+                    </div>
                 </BusyDialog>
             </Overlay>
         )
