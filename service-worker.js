@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/2018-interactive-web-apps-project-DerJontte/precache-manifest.18059af19fd49cc3adcd9af3098c4278.js"
+  "/SPMS/precache-manifest.baf1e70ac25ea98ea25c2b395eff4ef1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/2018-interactive-web-apps-project-DerJontte/index.html", {
+workbox.routing.registerNavigationRoute("/SPMS/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

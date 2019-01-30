@@ -1,14 +1,14 @@
 {
-  "main.css": "/2018-interactive-web-apps-project-DerJontte/static/css/main.f3ed7098.chunk.css",
-  "main.js": "/2018-interactive-web-apps-project-DerJontte/static/js/main.3700cadc.chunk.js",
-  "main.js.map": "/2018-interactive-web-apps-project-DerJontte/static/js/main.3700cadc.chunk.js.map",
-  "static/js/1.bdf500a1.chunk.js": "/2018-interactive-web-apps-project-DerJontte/static/js/1.bdf500a1.chunk.js",
-  "static/js/1.bdf500a1.chunk.js.map": "/2018-interactive-web-apps-project-DerJontte/static/js/1.bdf500a1.chunk.js.map",
-  "runtime~main.js": "/2018-interactive-web-apps-project-DerJontte/static/js/runtime~main.d71a834e.js",
-  "runtime~main.js.map": "/2018-interactive-web-apps-project-DerJontte/static/js/runtime~main.d71a834e.js.map",
-  "static/media/BusyGear.a7601404.svg": "/2018-interactive-web-apps-project-DerJontte/static/media/BusyGear.a7601404.svg",
-  "static/css/main.f3ed7098.chunk.css.map": "/2018-interactive-web-apps-project-DerJontte/static/css/main.f3ed7098.chunk.css.map",
-  "index.html": "/2018-interactive-web-apps-project-DerJontte/index.html",
-  "precache-manifest.18059af19fd49cc3adcd9af3098c4278.js": "/2018-interactive-web-apps-project-DerJontte/precache-manifest.18059af19fd49cc3adcd9af3098c4278.js",
-  "service-worker.js": "/2018-interactive-web-apps-project-DerJontte/service-worker.js"
+  "main.css": "/SPMS/static/css/main.f3ed7098.chunk.css",
+  "main.js": "/SPMS/static/js/main.be43c45c.chunk.js",
+  "main.js.map": "/SPMS/static/js/main.be43c45c.chunk.js.map",
+  "static/js/1.68b1b290.chunk.js": "/SPMS/static/js/1.68b1b290.chunk.js",
+  "static/js/1.68b1b290.chunk.js.map": "/SPMS/static/js/1.68b1b290.chunk.js.map",
+  "runtime~main.js": "/SPMS/static/js/runtime~main.7df999cf.js",
+  "runtime~main.js.map": "/SPMS/static/js/runtime~main.7df999cf.js.map",
+  "static/media/BusyGear.a7601404.svg": "/SPMS/static/media/BusyGear.a7601404.svg",
+  "static/css/main.f3ed7098.chunk.css.map": "/SPMS/static/css/main.f3ed7098.chunk.css.map",
+  "index.html": "/SPMS/index.html",
+  "precache-manifest.baf1e70ac25ea98ea25c2b395eff4ef1.js": "/SPMS/precache-manifest.baf1e70ac25ea98ea25c2b395eff4ef1.js",
+  "service-worker.js": "/SPMS/service-worker.js"
 }
