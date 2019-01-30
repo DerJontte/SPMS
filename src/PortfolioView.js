@@ -161,7 +161,7 @@ export default class PortfolioView extends Component {
 
             // Each portfolio component consists of a TitleBar, a stock list and a BottomBar.
             portfolioArray.push(
-                <PortfolioContainer>
+                <PortfolioContainer key={i.toString()}>
                     <TitleBar currentPortfolio={currentPortfolio} uniqueID={uniqueID} deletePortfolio={deletePortfolio} saveState={this.saveState} />
                     <StockList portfolio={currentPortfolio} self={this} />
                     <BottomBar currentPortfolio={currentPortfolio} addStock={this.addStock.bind(this, currentPortfolio)} removeStock={this.removeStock.bind(this, currentPortfolio)} createGraph={this.createGraph.bind(this, currentPortfolio)}/>
@@ -315,7 +315,7 @@ class StockList extends Component {
             }
 
             tableBodyData.push(
-                <TableRow onClick={setSelected.bind(self, i)}>
+                <TableRow onClick={setSelected.bind(self, i)} key={i.toString()}>
                     <Cell>{stockList[i].symbol}</Cell>
                     <Cell>{unitValue} {portfolio.currency}</Cell>
                     <Cell>{stockList[i].amount}</Cell>
