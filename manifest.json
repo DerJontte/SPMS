@@ -3,7 +3,7 @@
   "name": "Stock Portfolio Management System",
   "icons": [
     {
-      "src": "SPMS/favicon.ico",
+      "src": "/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon"
     },
