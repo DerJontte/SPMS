@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/SPMS/static/css/main.f3ed7098.chunk.css"
   },
   {
-    "revision": "2a6d2da211802eec63d73f03937bb113",
+    "revision": "0ea08be771c80a766e798737a036e0a0",
     "url": "/SPMS/index.html"
   }
 ];
