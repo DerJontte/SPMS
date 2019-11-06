@@ -1,7 +1,7 @@
 {
   "main.css": "/spms/static/css/main.f3ed7098.chunk.css",
-  "main.js": "/spms/static/js/main.3ffeb00e.chunk.js",
-  "main.js.map": "/spms/static/js/main.3ffeb00e.chunk.js.map",
+  "main.js": "/spms/static/js/main.237ec6c6.chunk.js",
+  "main.js.map": "/spms/static/js/main.237ec6c6.chunk.js.map",
   "static/js/1.3bd88232.chunk.js": "/spms/static/js/1.3bd88232.chunk.js",
   "static/js/1.3bd88232.chunk.js.map": "/spms/static/js/1.3bd88232.chunk.js.map",
   "runtime~main.js": "/spms/static/js/runtime~main.3c329be0.js",
@@ -9,6 +9,6 @@
   "static/media/BusyGear.a7601404.svg": "/spms/static/media/BusyGear.a7601404.svg",
   "static/css/main.f3ed7098.chunk.css.map": "/spms/static/css/main.f3ed7098.chunk.css.map",
   "index.html": "/spms/index.html",
-  "precache-manifest.96cd1bde1a529e8486c2fbb0bc234990.js": "/spms/precache-manifest.96cd1bde1a529e8486c2fbb0bc234990.js",
+  "precache-manifest.8b6a745832d82c8381f599cbb114ced2.js": "/spms/precache-manifest.8b6a745832d82c8381f599cbb114ced2.js",
   "service-worker.js": "/spms/service-worker.js"
 }
